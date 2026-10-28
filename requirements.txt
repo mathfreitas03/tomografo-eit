@@ -1,0 +1,6 @@
+numpy
+matplotlib
+PyQt6
+qtawesome
+pyeit
+pyserial
